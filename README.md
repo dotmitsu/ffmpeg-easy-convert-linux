@@ -1,12 +1,12 @@
 # ffmpeg-easy-convert
 Скрипт для быстрого переконвертирования большого числа видеофайлов с помощью ffmpeg. 
 
-1)Устанавливаем ffmpeg.
-2)Помещаем в корень директории “ffmpeg-easy-convert” необходимые видеофайлы.
-3)Заходим через терминал в директорию “ffmpeg-easy-convert”.
-4)Делаем “!convert.bash” исполняемым.
-5)Запускаем “!convert.bash”
-6)Забираем готовые файлы из папки “converted”.
+1) Устанавливаем ffmpeg.
+2) Помещаем в корень директории “ffmpeg-easy-convert” необходимые видеофайлы.
+3) Заходим через терминал в директорию “ffmpeg-easy-convert”.
+4) Делаем “!convert.bash” исполняемым.
+5) Запускаем “!convert.bash”
+6) Забираем готовые файлы из папки “converted”.
 
 Script for fast conversion of a large number of video files with ffmpeg.
 
