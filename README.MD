@@ -1,4 +1,5 @@
-Версия для Linux
+Версия для Linux.
+
 Скрипт для быстрого переконвертирования большого числа видеофайлов с помощью ffmpeg.
 
 1) Устанавливаем ffmpeg.
@@ -10,7 +11,8 @@
 
 В файле !convert.bash можно указать битрейт, расширение, аудио и прочие параметры.
 
-Linux version
+Linux version.
+
 Script for fast conversion of a large number of video files with ffmpeg.
 
 1) Install ffmpeg.
