@@ -9,7 +9,7 @@
 5) Запускаем “!convert.bash”
 6) Забираем готовые файлы из папки “converted”.
 
-В файле !convert.bash можно указать битрейт, расширение, аудио и прочие параметры.
+В файле !convert.bash можно изменить битрейт, расширение, аудио и прочие параметры.
 
 Linux version.
 
@@ -22,4 +22,4 @@ Script for fast conversion of a large number of video files with ffmpeg.
 5) Run ”!convert.bash”
 6) Take the converted files from the “converted” folder.
 
-In the "!convert.bash" file, you can specify the bitrate, extension, audio and other parameters.
+In the "!convert.bash" file, you can edit the bitrate, extension, audio and other parameters.
