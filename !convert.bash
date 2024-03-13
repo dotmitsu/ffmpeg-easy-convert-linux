@@ -2,7 +2,10 @@
 
 #Параметры для FFMPEG
 #FFMPEG Parameters
+#For constant bitrate
 PARAMETERS='-acodec aac -strict -2 -b:a 128k -vcodec libx264 -b:v 10000k -r 25 -ac 2'
+#For variable bitrate uncoment this string and comment previous string
+#PARAMETERS='-acodec aac -strict -2 -b:a 128k -vcodec libx264 -crf 18 -r 25 -ac 2'
 
 ls | while read FILENAME;
 do
